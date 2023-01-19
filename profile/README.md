@@ -6,7 +6,7 @@
 
 我们组织也会尝试开发一些跟AI、音乐、DAW（数字音频工作站）等内容，而不仅限于我的世界的开发。
 
-我们欢迎任何与我们兴趣相同的人申请加入组织或者pull requestments、create issuses、提出意见和建议！
+我们欢迎任何与我们兴趣相同的人申请加入组织或者pull requests、创建issuses、提出意见和建议！
 
 联系我们：TriM-Organization@hotmail.com
 
@@ -16,6 +16,6 @@ Minecraft Video Player(A software used to make particle video in Minecraft).
 
 Also, we will try to develop something that's not only about Minecraft but also about music AI or DAW(Digital Audio Workstation).
 
-We welcome everyone who shares our interests to apply to join our organization, pull requestments or create issuses!
+We welcome everyone who shares our interests to apply to join our organization, pull requests or create issues!
 
 Email to us: TriM-Organization@hotmail.com
