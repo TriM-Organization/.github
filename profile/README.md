@@ -1,8 +1,8 @@
-## 睿穆 TriM-Org.
+## 睿乐 TriM-Org.
 
 嗨~
 
-我们是 睿穆组织（TriMO, 全称 Minecraft Muti-Media Organization），意为“我的世界多媒体组织”。
+我们是 睿乐组织（TriMO, 全称 Minecraft Muti-Media Organization），意为“我的世界多媒体组织”。
 
 我们组织的主要活动是一些有关我的世界与多媒体相关的程序项目，例如音·创（我的世界音乐转换程序），我的世界视频播放器（MVP）等。
 
